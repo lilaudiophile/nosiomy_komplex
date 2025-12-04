@@ -12,3 +12,4 @@ AUDIO_CONFIG = {
     'noise_reduction': True,        # Включить шумоподавление
     'sample_width': 2,              # 16-bit audio
 }
+
